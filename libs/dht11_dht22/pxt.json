@@ -1,0 +1,19 @@
+{
+    "name": "dht11_dht22",
+    "version": "0.0.2",
+    "description": "",
+    "dependencies": {
+        "core": "file:../core"
+    },
+    "files": [
+        "README.md",
+        "dht11_dht22.ts",
+        "_locales/zh/pxt-DHT11_DHT22-strings.json",
+        "_locales/zh/pxt-DHT11_DHT22-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
+

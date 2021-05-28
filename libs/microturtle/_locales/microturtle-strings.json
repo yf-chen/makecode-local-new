@@ -1,0 +1,13 @@
+{
+  "turtle.back|block": "back %steps|steps",
+  "turtle.forward|block": "forward %steps|steps",
+  "turtle.home|block": "home",
+  "turtle.pen|block": "pen %mode",
+  "turtle.setBrightness|block": "set brightess %brightness",
+  "turtle.setPosition|block": "set position x: %x|y: %y",
+  "turtle.setSpeed|block": "set speed %speed",
+  "turtle.turnLeft|block": "turn left",
+  "turtle.turnRight|block": "turn right",
+  "turtle|block": "turtle",
+  "{id:category}Turtle": "Turtle"
+}

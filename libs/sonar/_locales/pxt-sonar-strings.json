@@ -1,0 +1,5 @@
+{
+  "sonar.ping|block": "ping trig %trig|echo %echo|unit %unit",
+  "sonar|block": "sonar",
+  "{id:category}Sonar": "Sonar"
+}

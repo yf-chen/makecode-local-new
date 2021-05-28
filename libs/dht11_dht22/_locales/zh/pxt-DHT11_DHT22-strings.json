@@ -1,0 +1,12 @@
+{
+  "DHTtype.DHT11|block": "DHT11",
+  "DHTtype.DHT22|block": "DHT22",
+  "dataType.humidity|block": "湿度",
+  "dataType.temperature|block": "温度",
+   "dht11_dht22.queryData|block": "硬件类型 $DHT|连接到 $dataPin|拉为上 $pullUp|串口输出 $serialOtput|查询后等待2秒 $wait",
+  "dht11_dht22.readDataSuccessful|block": "上次查询成功吗?",
+  "dht11_dht22.readData|block": "获取 $data",
+  "dht11_dht22|block": "DHT11/DHT22",
+  "{id:category}Dht11_dht22": "Dht11_dht22"
+}
+

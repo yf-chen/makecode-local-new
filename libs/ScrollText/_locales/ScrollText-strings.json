@@ -1,0 +1,6 @@
+{
+  "ScrolText.showNumber|block": "scroll number %n|dir %dir|rotate %rotate|delay %delay",
+  "ScrolText.showString|block": "scroll string %s|dir %dir|rotate %rotate|delay %delay",
+  "ScrolText|block": "ScrollText",
+  "{id:category}ScrolText": "ScrolText"
+}

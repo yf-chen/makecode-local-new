@@ -1,0 +1,21 @@
+{
+    "name": "sonar",
+    "version": "0.0.5",
+    "description": "A MakeCode package to use sonar sensors",
+    "license": "MIT",
+    "dependencies": {
+        "core": "file:../core"
+    },
+    "files": [
+        "README.md",
+        "sonar.ts",
+        "_locales/zh/pxt-sonar-strings.json",
+        "_locales/zh/pxt-sonar-jsdoc-strings.json",
+        "_locales/pxt-sonar-strings.json",
+        "_locales/pxt-sonar-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}

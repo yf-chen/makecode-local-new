@@ -1,0 +1,11 @@
+{
+  "RGB.BLUE|block": "蓝",
+  "RGB.CLEAR|block": "全部",
+  "RGB.GREEN|block": "绿",
+  "RGB.RED|block": "红",
+  "TCS34725_SENSOR.LCS_initialize|block": "初始化颜色传感器",
+  "TCS34725_SENSOR.colorType|block": "颜色值 %colorType",
+  "TCS34725_SENSOR.getColorData|block": "读取颜色值 %colorId",
+  "TCS34725_SENSOR.getColor|block": "读取颜色的颜色是",
+  "{id:category}TCS34725_SENSOR": "TCS34725_SENSOR"
+}

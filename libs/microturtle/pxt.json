@@ -1,0 +1,16 @@
+{
+    "name": "microturtle",
+    "version": "0.0.9",
+    "dependencies": {
+        "core": "file:../core"
+    },
+    "description": "A LOGO-like turtle library",
+    "files": [
+        "turtle.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}

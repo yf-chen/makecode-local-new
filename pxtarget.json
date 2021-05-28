@@ -9,12 +9,23 @@
         "libs/core",
         "libs/radio",
         "libs/devices",
-        "libs/bluetooth",
-        "libs/servo",
-        "libs/radio-broadcast",
         "libs/microphone",
         "libs/settings",
-        "libs/flashlog"
+        "libs/bluetooth",
+        "libs/radio-broadcast",
+        "libs/servo",
+        "libs/flashlog",
+        "libs/neopixel",
+        "libs/sonar",
+        "libs/microturtle",
+        "libs/TM1637",
+        "libs/max7219",
+        "libs/ds1307",
+        "libs/WhaleySansFont",
+        "libs/dht11_dht22",
+        "libs/tcs34725",
+        "libs/OLED12864_I2C"
+
     ],
     "cloud": {
         "workspace": false,

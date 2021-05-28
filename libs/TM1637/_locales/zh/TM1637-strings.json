@@ -1,0 +1,13 @@
+{
+  "TM1637.TM1637LEDs.clear|block": "清除 %tm",
+  "TM1637.TM1637LEDs.intensity|block": "%tm|设置亮度 %val",
+  "TM1637.TM1637LEDs.off|block": "关闭 %tm",
+  "TM1637.TM1637LEDs.on|block": "打开 %tm",
+  "TM1637.TM1637LEDs.showDP|block": "%tm|位于 %bit|的点是否打开 %show",
+  "TM1637.TM1637LEDs.showHex|block": "%tm|显示十六进制 %num",
+  "TM1637.TM1637LEDs.showNumber|block": "%tm|显示数字 %num",
+  "TM1637.TM1637LEDs.showbit|block": "%tm|显示数字 %num |在第 %bit",
+  "TM1637.create|block": "CLK位于 %clk|DIO位于 %dio|亮度 %intensity|LED数量 %count",
+  "TM1637|block": "TM1637",
+  "{id:category}TM1637": "TM1637"
+}

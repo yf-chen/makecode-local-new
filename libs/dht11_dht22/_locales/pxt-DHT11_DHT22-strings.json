@@ -1,0 +1,11 @@
+{
+  "DHTtype.DHT11|block": "DHT11",
+  "DHTtype.DHT22|block": "DHT22",
+  "dataType.humidity|block": "humidity",
+  "dataType.temperature|block": "temperature",
+  "dht11_dht22.queryData|block": "Query $DHT|Data pin $dataPin|Pin pull up $pullUp|Serial output $serialOtput|Wait 2 sec after query $wait",
+  "dht11_dht22.readDataSuccessful|block": "Last query successful?",
+  "dht11_dht22.readData|block": "Read $data",
+  "dht11_dht22|block": "DHT11/DHT22",
+  "{id:category}Dht11_dht22": "Dht11_dht22"
+}

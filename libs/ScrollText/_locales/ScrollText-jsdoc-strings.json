@@ -1,0 +1,13 @@
+{
+  "ScrolText": "microbit makecode Package: Scroll Text.\r\nAuthor: shao ziyang, 2018.Sept\r\nFrom microbit/micropython Chinese community.\r\nhttp://www.micropython.org.cn",
+  "ScrolText.showNumber": "show a scroll number",
+  "ScrolText.showNumber|param|delay": ", eg: 100",
+  "ScrolText.showNumber|param|dir": ", eg: SCROLL_DIR.LEFT",
+  "ScrolText.showNumber|param|n": ", eg: 123",
+  "ScrolText.showNumber|param|rotate": ", eg: SCROLL_ROTATE.SR_90",
+  "ScrolText.showString": "show a scroll string",
+  "ScrolText.showString|param|delay": ", eg: 100",
+  "ScrolText.showString|param|dir": ", eg: SCROLL_DIR.LEFT",
+  "ScrolText.showString|param|rotate": ", eg: SCROLL_ROTATE.SR_0",
+  "ScrolText.showString|param|s": ", eg: \"Hello\""
+}

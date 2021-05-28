@@ -1,0 +1,19 @@
+{
+    "name": "TM1637",
+    "version": "1.0.0",
+    "description": "makecode 的 TM1637 数码管显示 micro:bit 软件包",
+    "license": "MIT",
+    "dependencies": {
+        "core": "file:../core"
+    },
+    "files": [
+        "README.md",
+        "TM1637.ts",
+        "_locales/zh/TM1637-strings.json",
+        "_locales/zh/TM1637-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}

@@ -1,0 +1,6 @@
+{
+  "dht11_dht22": "DHT11和DHT22 温湿度传感器makecode扩展",
+  "dht11_dht22.queryData": "通过DHT11/DHT22传感器获取数据. 如果使用4个口传感器，请拉为上. \n推荐2次查询之间相隔1秒或者2秒.",
+  "dht11_dht22.readData": "获取最新数据",
+  "dht11_dht22.readDataSuccessful": ""
+}

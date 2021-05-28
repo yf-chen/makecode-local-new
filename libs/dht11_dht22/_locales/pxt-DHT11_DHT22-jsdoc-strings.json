@@ -1,0 +1,6 @@
+{
+  "dht11_dht22": "MakeCode editor extension for DHT11 and DHT22 humidity/temperature sensors\nby Alan Wang",
+  "dht11_dht22.queryData": "Query data from DHT11/DHT22 sensor. If you are using 4 pins/no PCB board versions, you'll need to pull up the data pin. \nIt is also recommended to wait 1 (DHT11) or 2 (DHT22) seconds between each query.",
+  "dht11_dht22.readData": "Read humidity/temperature data from lastest query of DHT11/DHT22",
+  "dht11_dht22.readDataSuccessful": "Determind if last query is successful (checksum ok)"
+}

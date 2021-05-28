@@ -1,0 +1,16 @@
+{
+  "OLED12864_I2C": "XinaBox OD01 extension for makecode\r\nBase on OLED Package from microbit/micropython Chinese community.\r\nhttps://github.com/makecode-extensions/OLED12864_I2C",
+  "OLED12864_I2C.Number": "show a number in OLED",
+  "OLED12864_I2C.String": "show text in OLED",
+  "OLED12864_I2C.clear": "clear screen",
+  "OLED12864_I2C.display": "turn on/off screen",
+  "OLED12864_I2C.hline": "draw a horizontal line",
+  "OLED12864_I2C.init": "OLED initialize",
+  "OLED12864_I2C.invert": "invert display",
+  "OLED12864_I2C.invert|param|d": "true: invert / false: normal, eg: true",
+  "OLED12864_I2C.pixel": "set pixel in OLED",
+  "OLED12864_I2C.printNumber": "print a Number in OLED",
+  "OLED12864_I2C.printString": "print a text in OLED",
+  "OLED12864_I2C.rect": "draw a rectangle",
+  "OLED12864_I2C.vline": "draw a vertical line"
+}
